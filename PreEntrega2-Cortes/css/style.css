@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(246, 52, 91);
+}
+
+h1{
+    color: rgb(117, 12, 21);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor {
+    border: 1px solid #d76c45;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+  }
+  
+  img {
+    max-width: 40%;
+    height: auto;
+  }
